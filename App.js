@@ -8,10 +8,10 @@ const App = () => {
   return (
     // Uncomment the line to check the working of other navigation
     <>
-      {/* <StackNav /> */}
+      <StackNav />
       {/* <TabNav /> */}
       {/* <DrawerNav /> */}
-      <NestedNav />
+      {/* <NestedNav /> */}
     </>
   );
 };
